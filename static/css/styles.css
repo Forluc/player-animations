@@ -1,0 +1,27 @@
+.vp-player {
+    width: 800px;
+    height: 600px;
+    border-style: none;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 20px rgba(0,0,0,10);
+}
+.vp-screen {
+    flex-grow: 1;
+}
+
+.vp-bottom-controls {
+    background-color: black;
+    flex-grow: 0;
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+
+.vp-buttons {
+    border-style: none;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
