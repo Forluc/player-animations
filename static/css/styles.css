@@ -71,3 +71,7 @@
 .vp-bottom-controls:hover .vp-dot {
     opacity: 100%;
 }
+
+.vp-margin-left-10 {
+    margin-left:10px;
+}
