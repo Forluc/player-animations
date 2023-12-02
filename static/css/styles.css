@@ -23,17 +23,18 @@
 }
 
 .vp-bottom-controls:hover .vp-dot {
-  height: 8px;
-  width: 8px;
-  margin-top: -4px;
-  margin-left: -6px;
-  background-color: blue;
-  border-radius: 50%;
-  display: inline-block;
+    opacity: 1;
+    height: 8px;
+    width: 8px;
+    margin-top: -4px;
+    margin-left: -6px;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
 
-  border-style: solid;
-  border-width: 3px;
-  border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
 }
 
 .vp-buttons {
@@ -61,15 +62,4 @@
 }
 
 .vp-dot {
-  height: 8px;
-  width: 8px;
-  margin-top: -4px;
-  margin-left: -6px;
-  background-color: red;
-  border-radius: 50%;
-  display: inline-block;
-
-  border-style: solid;
-  border-width: 3px;
-  border-color: white;
 }
