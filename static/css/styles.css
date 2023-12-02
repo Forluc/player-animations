@@ -26,6 +26,22 @@
     font-size: 20px;
 }
 
+.vp-progress-bar {
+    display: flex;
+    background-color: grey;
+    flex-grow: 1;
+    border-radius: 30px;
+    height: 4px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.vp-progress-slider {
+    background-color: red;
+    height: 4px;
+    border-radius: 30px;
+}
+
 .vp-dot {
   height: 7px;
   width: 7px;
