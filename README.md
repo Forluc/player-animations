@@ -1,4 +1,8 @@
-## Продвинутая верстка в Django. Урок 2. Анимация плеера.
+## Продвинутая верстка в Django. [Урок 2. Анимация плеера.](https://forluc.github.io/player-animations/)
+
+![Снимок экрана 2023-12-02 140313](https://github.com/Forluc/player-animations/assets/75582238/776bee60-3486-4f55-a410-fcb5899a9dd4)
+Ознакомиться с видеооплеером можно по [ссылке](https://forluc.github.io/player-animations/)
+
 ## Сценарий использования
 ```bash
 $ git clone https://github.com/Forluc/player-animations
