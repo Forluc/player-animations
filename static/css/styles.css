@@ -8,6 +8,10 @@
 }
 .vp-screen {
     flex-grow: 1;
+    color: white;
+    font-family: 'Roboto';
+    display: flex;
+    align-items: center;
 }
 
 .vp-bottom-controls {
@@ -43,8 +47,10 @@
 }
 
 .vp-dot {
-  height: 7px;
-  width: 7px;
+  height: 8px;
+  width: 8px;
+  margin-top: -4px;
+  margin-left: -6px;
   background-color: red;
   border-radius: 50%;
   display: inline-block;
