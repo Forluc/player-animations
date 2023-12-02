@@ -41,6 +41,7 @@
     height: 4px;
     margin-left:10px;
     margin-right:10px;
+    cursor: pointer
 }
 
 .vp-progress-slider {
